@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI in Sensor Technology
 - 💞️ I’m looking to collaborate on Machine learning 
-- 📫 Mail me @v.syamsankar
+- 📫 Mail me v.syamsankar@gmail.com
 
 <!---
 syam-sankarv/syam-sankarv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
